@@ -12,6 +12,8 @@ numpy
 ## Dataset
 There are three datasets and I perturb the noise in `data_utils.py` file.If your are interested in perturbing noise in dataset, you could check `noise.py`.
 
+And the datasets I prerprocessed can be downloaded [here](https://pan.baidu.com/s/1vtkeAx_x_UyDTLLd5bvqqg) with key: `sn86`. ([BaiduNetDisk](https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list))
+
 ## How to run it?
 You could check the shell script and you will get to know how it could work.
  
